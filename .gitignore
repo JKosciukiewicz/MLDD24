@@ -132,3 +132,4 @@ dmypy.json
 .pyre/
 
 data
+/labs/L1-machine-learning-in-chemistry/predictions.csv
